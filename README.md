@@ -1,16 +1,27 @@
-# todo_counter_app
+# Task Manager App - Flutter Internship Project
 
-A new Flutter project.
+A Flutter application demonstrating state management and persistent storage using setState and SharedPreferences.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+### 🔹 Counter App
+- Increment and decrement counter
+- Reset counter functionality
+- Auto-save using SharedPreferences
+- Data persists after app restart
 
-A few resources to get you started if this is your first Flutter project:
+### 🔹 To-Do List App
+- Add tasks with title and description
+- Mark tasks as complete/incomplete
+- Delete tasks (including swipe to delete)
+- Clear completed tasks
+- View task statistics (Total, Completed, Pending)
+- Persistent storage using SharedPreferences
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- SharedPreferences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developer
+Muhammad Farhan
