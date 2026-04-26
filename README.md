@@ -3,6 +3,10 @@
 A modern Flutter application demonstrating state management and persistent local storage using setState and SharedPreferences.
 This project was developed as part of a Flutter internship (Week 1–3) to showcase practical mobile app development skills.
 
+### 🎥 Demo Video
+https://drive.google.com/file/d/1m6NojGcXl8CZhOI2o9sO46cpZd4VGH_b/view?usp=drive_link
+
+
 ## 📱 Features
 
 ### 🔹 Counter App
