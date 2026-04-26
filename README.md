@@ -1,6 +1,7 @@
 # Task Manager App - Flutter Internship Project
 
-A Flutter application demonstrating state management and persistent storage using setState and SharedPreferences.
+A modern Flutter application demonstrating state management and persistent local storage using setState and SharedPreferences.
+This project was developed as part of a Flutter internship (Week 1–3) to showcase practical mobile app development skills.
 
 ## 📱 Features
 
@@ -18,10 +19,18 @@ A Flutter application demonstrating state management and persistent storage usin
 - View task statistics (Total, Completed, Pending)
 - Persistent storage using SharedPreferences
 
+###  🎨 UI Highlights
+Glass morphism design
+Gradient-based modern interface
+Clean and responsive layout
+User-friendly navigation
+
+
 ## 🛠️ Technologies Used
 - Flutter
 - Dart
 - SharedPreferences
+
 
 ## 👨‍💻 Developer
 Muhammad Farhan
